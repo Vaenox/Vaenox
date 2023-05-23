@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: <br>
 🔭 Şuan Bandırma 17 Eylül Üniversitesinde Yazılım Mühendisliği okuyorum.<br>🌱 Kendimi yapay zeka derin öğrenme ve görüntü işleme alanlarında geliştirmeye çalışıyorum.<br>
 
 
