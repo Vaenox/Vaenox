@@ -1,5 +1,5 @@
 # 💫 About Me: <br>
-🔭 Bandırma 17 Eylül Üniversitesi Yazılım Mühendisliği Bölümünden Mezun Oldum. .<br>🌱 Kendimi yapay zeka derin öğrenme ve mobil programlama alanlarında geliştirmeye çalışıyorum.<br>
+🔭 Bandırma 17 Eylül Üniversitesi Yazılım Mühendisliği Bölümünden Mezun Oldum. .<br>🌱 Kendimi yapay zeka derin öğrenme ve mobil programlama alanlarında geliştiriyorum.<br>
 
 
 ## 🌐 Socials:
